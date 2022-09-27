@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nissan GTRs (NFS Most Wanted Razor Version)
+* source:	https://sketchfab.com/3d-models/nissan-gtrs-nfs-most-wanted-razor-version-841801d7a27a4e8fb266d2912b325563
+* author:	Allay Design (https://sketchfab.com/Alister.Dsouza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nissan GTRs (NFS Most Wanted Razor Version)" (https://sketchfab.com/3d-models/nissan-gtrs-nfs-most-wanted-razor-version-841801d7a27a4e8fb266d2912b325563) by Allay Design (https://sketchfab.com/Alister.Dsouza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
